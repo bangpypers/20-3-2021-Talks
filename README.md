@@ -11,14 +11,14 @@ Notes and resources from the Bangpypers Meetup on 20th March 2021
 
 ### Speaker : Krace
 
-Link: `https://github.com/kracekumar/jut`
+Link: https://github.com/kracekumar/jut
 
 ----
 # **electric**
 
 ### Speaker : Tejas Ravishankar
 
-Link: `https://github.com/electric-package-manager/electric`
+Link: https://github.com/electric-package-manager/electric
 
 ----
 
